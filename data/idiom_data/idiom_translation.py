@@ -6,7 +6,12 @@ def sentence_to_tensor(sentence, vocab, tokenizer):
     indexes = [vocab[token] for token in tokens]
     return torch.tensor([vocab["<sos>"]] + indexes + [vocab["<eos>"]])
 
+# Helper function to tokenize and build vocabulary
+def yield_tokens(data_iter, tokenizer):
+    for text in data_iter:
+        yield tokenizer(text)
 
+        
 class TranslationDataset(torch.utils.data.Dataset):
     def __init__(self, src_sentences, trg_sentences, vocab, tokenizer):
         self.src_sentences = src_sentences
