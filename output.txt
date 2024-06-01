@@ -1,0 +1,398 @@
+Idiom: just in case
+Parts: ['bring an umbrella', 'it rains.']
+Full Components: ['bring an umbrella', 'just in case', 'it rains.']
+
+Idiom: a sorry sight
+Parts: ['the abandoned house is', '.']
+Full Components: ['the abandoned house is', 'a sorry sight', '.']
+
+Idiom: rule of thumb
+Parts: ['a good', 'is to save 10%.']
+Full Components: ['a good', 'rule of thumb', 'is to save 10%.']
+
+Idiom: carpe diem
+Parts: ["let's travel this summer,", '!']
+Full Components: ["let's travel this summer,", 'carpe diem', '!']
+
+Idiom: salad days
+Parts: ['during my', ', i traveled a lot.']
+Full Components: ['during my', 'salad days', ', i traveled a lot.']
+
+Idiom: off the record
+Parts: [', the project is delayed.']
+Full Components: [', the project is delayed.', 'off the record']
+
+Idiom: thank goodness
+Parts: ["it's friday!"]
+Full Components: ["it's friday!", 'thank goodness']
+
+Idiom: big bucks
+Parts: ['she makes', 'working in finance.']
+Full Components: ['she makes', 'big bucks', 'working in finance.']
+
+Idiom: dog days
+Parts: ['we stayed indoors during the', 'of summer.']
+Full Components: ['we stayed indoors during the', 'dog days', 'of summer.']
+
+Idiom: wet behind the ears
+Parts: ["he's still", 'in this job.']
+Full Components: ["he's still", 'wet behind the ears', 'in this job.']
+
+Idiom: just deserts
+Parts: ['he got his', 'for cheating.']
+Full Components: ['he got his', 'just deserts', 'for cheating.']
+
+Idiom: an arm and a leg
+Parts: ['that car costs', '.']
+Full Components: ['that car costs', 'an arm and a leg', '.']
+
+Idiom: never mind
+Parts: [', we can try again later.']
+Full Components: [', we can try again later.', 'never mind']
+
+Idiom: bricks and mortar
+Parts: ['they invested in', '.']
+Full Components: ['they invested in', 'bricks and mortar', '.']
+
+Idiom: close call
+Parts: ['that was a', '.']
+Full Components: ['that was a', 'close call', '.']
+
+Idiom: a sight for sore eyes
+Parts: ['seeing her was', '.']
+Full Components: ['seeing her was', 'a sight for sore eyes', '.']
+
+Idiom: open warfare
+Parts: ['there was', 'between the teams.']
+Full Components: ['there was', 'open warfare', 'between the teams.']
+
+Idiom: pin money
+Parts: ['she sells crafts for', '.']
+Full Components: ['she sells crafts for', 'pin money', '.']
+
+Idiom: third time lucky
+Parts: ['he finally won,', '.']
+Full Components: ['he finally won,', 'third time lucky', '.']
+
+Idiom: race against time
+Parts: ["it's a", 'to finish the project.']
+Full Components: ["it's a", 'race against time', 'to finish the project.']
+
+Idiom: rain or shine
+Parts: ["i'll be there,", '.']
+Full Components: ["i'll be there,", 'rain or shine', '.']
+
+Idiom: hold on a second
+Parts: [", i'll be right back."]
+Full Components: [", i'll be right back.", 'hold on a second']
+
+Idiom: next to nothing
+Parts: ['i bought this for', '.']
+Full Components: ['i bought this for', 'next to nothing', '.']
+
+Idiom: cheek by jowl
+Parts: ['the houses were built', '.']
+Full Components: ['the houses were built', 'cheek by jowl', '.']
+
+Idiom: black and blue
+Parts: ['he came home', 'after the fight.']
+Full Components: ['he came home', 'black and blue', 'after the fight.']
+
+Idiom: dead wood
+Parts: ['the company needs to cut out the', '.']
+Full Components: ['the company needs to cut out the', 'dead wood', '.']
+
+Idiom: stranger things have happened
+Parts: [", so it's possible."]
+Full Components: [", so it's possible.", 'stranger things have happened']
+
+Idiom: pigs might fly
+Parts: ["he said he'll change, but", '.']
+Full Components: ["he said he'll change, but", 'pigs might fly', '.']
+
+Idiom: poetry in motion
+Parts: ['her dance was', '.']
+Full Components: ['her dance was', 'poetry in motion', '.']
+
+Idiom: dressed up to the nines
+Parts: ['she was', 'for the event.']
+Full Components: ['she was', 'dressed up to the nines', 'for the event.']
+
+Idiom: way around
+Parts: ["there's always a", 'any problem.']
+Full Components: ["there's always a", 'way around', 'any problem.']
+
+Idiom: no strings attached
+Parts: ['the gift came with', '.']
+Full Components: ['the gift came with', 'no strings attached', '.']
+
+Idiom: a shot in the arm
+Parts: ['the new manager was', '.']
+Full Components: ['the new manager was', 'a shot in the arm', '.']
+
+Idiom: below the salt
+Parts: ['he felt', 'at the formal dinner.']
+Full Components: ['he felt', 'below the salt', 'at the formal dinner.']
+
+Idiom: heart of gold
+Parts: ['she has a', ', always helping others.']
+Full Components: ['she has a', 'heart of gold', ', always helping others.']
+
+Idiom: in the pipeline
+Parts: ['new projects are', '.']
+Full Components: ['new projects are', 'in the pipeline', '.']
+
+Idiom: golden age
+Parts: ['this is the', 'of technology.']
+Full Components: ['this is the', 'golden age', 'of technology.']
+
+Idiom: in limbo
+Parts: ['the deal is', 'until further notice.']
+Full Components: ['the deal is', 'in limbo', 'until further notice.']
+
+Idiom: baptism of fire
+Parts: ['his first day was a', '.']
+Full Components: ['his first day was a', 'baptism of fire', '.']
+
+Idiom: beyond words
+Parts: ['her kindness is', '.']
+Full Components: ['her kindness is', 'beyond words', '.']
+
+Idiom: on the table
+Parts: ['the proposal is', 'for discussion.']
+Full Components: ['the proposal is', 'on the table', 'for discussion.']
+
+Original Sentence: the car is in bad shape after the accident.
+
+Idiom: on the horns of a dilemma
+Parts: ["he's", 'about his job.']
+Full Components: ["he's", 'on the horns of a dilemma', 'about his job.']
+
+Idiom: under pressure
+Parts: ["she's", 'to finish the project.']
+Full Components: ["she's", 'under pressure', 'to finish the project.']
+
+Idiom: dead right
+Parts: ['you are', 'about the decision.']
+Full Components: ['you are', 'dead right', 'about the decision.']
+
+Idiom: give me five
+Parts: ['for a job well done!']
+Full Components: ['for a job well done!', 'give me five']
+
+Idiom: in the heat of the moment
+Parts: ['he said it', '.']
+Full Components: ['he said it', 'in the heat of the moment', '.']
+
+Idiom: fit as a fiddle
+Parts: ["she's", 'after her recovery.']
+Full Components: ["she's", 'fit as a fiddle', 'after her recovery.']
+
+Idiom: charity begins at home
+Parts: ['with helping our neighbors.']
+Full Components: ['with helping our neighbors.', 'charity begins at home']
+
+Idiom: syrup of figs
+Parts: ['he uses', 'for digestion.']
+Full Components: ['he uses', 'syrup of figs', 'for digestion.']
+
+Idiom: against time
+Parts: ['we’re racing', 'to finish.']
+Full Components: ['we’re racing', 'against time', 'to finish.']
+
+Idiom: neither fish nor fowl
+Parts: ['that hybrid animal is', '.']
+Full Components: ['that hybrid animal is', 'neither fish nor fowl', '.']
+
+Idiom: well hung
+Parts: ['the picture is', 'on the wall.']
+Full Components: ['the picture is', 'well hung', 'on the wall.']
+
+Idiom: in a nutshell
+Parts: [', it was a success.']
+Full Components: [', it was a success.', 'in a nutshell']
+
+Idiom: red handed
+Parts: ['he was caught', 'stealing.']
+Full Components: ['he was caught', 'red handed', 'stealing.']
+
+Idiom: at hand
+Parts: ['help is', 'if needed.']
+Full Components: ['help is', 'at hand', 'if needed.']
+
+Idiom: by the numbers
+Parts: ['follow the recipe', '.']
+Full Components: ['follow the recipe', 'by the numbers', '.']
+
+Idiom: nest egg
+Parts: ['they have a sizable', 'saved.']
+Full Components: ['they have a sizable', 'nest egg', 'saved.']
+
+Idiom: shelf life
+Parts: ["the product's", 'is long.']
+Full Components: ["the product's", 'shelf life', 'is long.']
+
+Idiom: flotsam and jetsam
+Parts: ['the attic was filled with', '.']
+Full Components: ['the attic was filled with', 'flotsam and jetsam', '.']
+
+Idiom: out on the town
+Parts: ['they went', '.']
+Full Components: ['they went', 'out on the town', '.']
+
+Idiom: on the fence
+Parts: ['he’s still', 'about it.']
+Full Components: ['he’s still', 'on the fence', 'about it.']
+
+Idiom: fancy free
+Parts: ["she's single and", '.']
+Full Components: ["she's single and", 'fancy free', '.']
+
+Idiom: head over heels
+Parts: ['they fell', 'in love.']
+Full Components: ['they fell', 'head over heels', 'in love.']
+
+Idiom: at the drop of a hat
+Parts: ['she agreed', '.']
+Full Components: ['she agreed', 'at the drop of a hat', '.']
+
+Idiom: poetic justice
+Parts: ['it was', 'for the villain.']
+Full Components: ['it was', 'poetic justice', 'for the villain.']
+
+Idiom: in the eyes of the law
+Parts: ['he is innocent', '.']
+Full Components: ['he is innocent', 'in the eyes of the law', '.']
+
+Idiom: dead to the world
+Parts: ['after work, he’s', '.']
+Full Components: ['after work, he’s', 'dead to the world', '.']
+
+Idiom: odds and ends
+Parts: ['the drawer was full of', '.']
+Full Components: ['the drawer was full of', 'odds and ends', '.']
+
+Idiom: an ugly duckling
+Parts: ['she turned from', 'to a swan.']
+Full Components: ['she turned from', 'an ugly duckling', 'to a swan.']
+
+Idiom: money for old rope
+Parts: ['that job was', '.']
+Full Components: ['that job was', 'money for old rope', '.']
+
+Idiom: daily grind
+Parts: ['the', 'can be exhausting.']
+Full Components: ['the', 'daily grind', 'can be exhausting.']
+
+Idiom: well read
+Parts: ['he’s very', 'and knowledgeable.']
+Full Components: ['he’s very', 'well read', 'and knowledgeable.']
+
+Idiom: no spring chicken
+Parts: ['he’s', 'anymore.']
+Full Components: ['he’s', 'no spring chicken', 'anymore.']
+
+Idiom: let sleeping dogs lie
+Parts: ['best to', '.']
+Full Components: ['best to', 'let sleeping dogs lie', '.']
+
+Idiom: easier said than done
+Parts: ['it’s', '.']
+Full Components: ['it’s', 'easier said than done', '.']
+
+Idiom: son of a gun
+Parts: ['that', 'surprised me.']
+Full Components: ['that', 'son of a gun', 'surprised me.']
+
+Idiom: hold your horses
+Parts: [', we’re almost there.']
+Full Components: [', we’re almost there.', 'hold your horses']
+
+Idiom: god forbid
+Parts: ['it happens again.']
+Full Components: ['it happens again.', 'god forbid']
+
+Idiom: across the board
+Parts: ['the rules apply', '.']
+Full Components: ['the rules apply', 'across the board', '.']
+
+Idiom: against the clock
+Parts: ['we’re working', '.']
+Full Components: ['we’re working', 'against the clock', '.']
+
+Idiom: in the same boat
+Parts: ['we’re all', '.']
+Full Components: ['we’re all', 'in the same boat', '.']
+
+Idiom: skid row
+Parts: ['he ended up on', '.']
+Full Components: ['he ended up on', 'skid row', '.']
+
+Idiom: the best of both worlds
+Parts: ['she enjoys', '.']
+Full Components: ['she enjoys', 'the best of both worlds', '.']
+
+Idiom: nitty gritty
+Parts: ['let’s get to the', '.']
+Full Components: ['let’s get to the', 'nitty gritty', '.']
+
+Idiom: the men in grey suits
+Parts: ['decisions are made by', '.']
+Full Components: ['decisions are made by', 'the men in grey suits', '.']
+
+Idiom: caught in the crossfire
+Parts: ['innocents were', '.']
+Full Components: ['innocents were', 'caught in the crossfire', '.']
+
+Idiom: between life and death
+Parts: ['she was', '.']
+Full Components: ['she was', 'between life and death', '.']
+
+Idiom: time is money
+Parts: ['remember,', '.']
+Full Components: ['remember,', 'time is money', '.']
+
+Idiom: young blood
+Parts: ['the company needs', '.']
+Full Components: ['the company needs', 'young blood', '.']
+
+Idiom: labour of love
+Parts: ['that project was a', '.']
+Full Components: ['that project was a', 'labour of love', '.']
+
+Idiom: the acid test
+Parts: ['this is', 'for the product.']
+Full Components: ['this is', 'the acid test', 'for the product.']
+
+Idiom: dead and buried
+Parts: ['that old habit is', '.']
+Full Components: ['that old habit is', 'dead and buried', '.']
+
+Idiom: as poor as a church mouse
+Parts: ['they’re', '.']
+Full Components: ['they’re', 'as poor as a church mouse', '.']
+
+Idiom: the holy grail
+Parts: ['finding that solution was', '.']
+Full Components: ['finding that solution was', 'the holy grail', '.']
+
+Idiom: to this day
+Parts: [', she remembers.']
+Full Components: [', she remembers.', 'to this day']
+
+Idiom: whiter than white
+Parts: ['his record is', '.']
+Full Components: ['his record is', 'whiter than white', '.']
+
+Idiom: all together now
+Parts: ['let’s do this', '.']
+Full Components: ['let’s do this', 'all together now', '.']
+
+Idiom: inside job
+Parts: ['the crime was an', '.']
+Full Components: ['the crime was an', 'inside job', '.']
+
+Idiom: magic touch
+Parts: ['she has the', 'with plants.']
+Full Components: ['she has the', 'magic touch', 'with plants.']
+
