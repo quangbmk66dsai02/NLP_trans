@@ -133,12 +133,18 @@ class Seq2Seq(nn.Module):
 
         return epoch_loss / len(dataloader)
 
-    def sample(self, sentence):
+    def sample(self, sentence, device=None):
         self.eval()
         tokenizer = self.tokenizer
         tokens = tokenizer(sentence)
         token_indices = [self.vocab[token] for token in tokens]
-        src_tensor = torch.tensor(token_indices).unsqueeze(1).to(self.device)  # Shape: [src_len, 1]
+        if device== None:
+            src_tensor = torch.tensor(token_indices).unsqueeze(1).to(self.device)  # Shape: [src_len, 1]
+        else:
+            print("Enter different device", device)
+            src_tensor = torch.tensor(token_indices).unsqueeze(1).to(device)  # Shape: [src_len, 1]
+            print(src_tensor.device)
+
 
         with torch.no_grad():
             outputs = self.forward(src_tensor, mode='eval')
