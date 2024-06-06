@@ -2,8 +2,7 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from data.idiom_data.idiom_translation import sentence_to_tensor
-from torchtext.data.utils import get_tokenizer
-from torchtext.vocab import build_vocab_from_iterator
+
 import random
 
 # Define the encoder

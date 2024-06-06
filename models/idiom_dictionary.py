@@ -14,16 +14,3 @@ class IdiomTransDict:
     def get_translation(self, idiom):
         return self.dictionary.get(idiom, "Translation not found")
 
-# Usage example
-idioms_file = 'data/idiom_data/total_idioms.txt'
-translations_file = 'data/idiom_data/total_translated_idioms.txt'
-
-dictionary = IdiomTransDict(idioms_file, translations_file)
-
-# Accessing the dictionary
-print(dictionary.dictionary)  # Print the entire dictionary
-
-# Getting a specific translation
-idiom = 'carpe diem'
-translation = dictionary.get_translation(idiom)
-print(f"Translation for '{idiom}': {translation}")
