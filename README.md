@@ -5,7 +5,7 @@ This is the repository for NLP project focusing on Static Idiom Translation.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install torch and transformers modules. 
 
-Please note that the the installation of torch should match with your current CUDA installation to prevent any troubles. For more details of previous version compatibility, pleas visit [torch vision](https://pytorch.org/get-started/previous-versions/).
+Please note that the the installation of torch should match with your current CUDA installation to prevent any troubles. For more details of previous version compatibility, please visit [torch vision](https://pytorch.org/get-started/previous-versions/).
 
 ```bash
 pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117
